@@ -278,7 +278,7 @@ ul {
   color: var(--grey-500);
 }
 
-.active {
+.active{
   color: var(--primary-500);
 }
 .products article {

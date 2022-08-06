@@ -3,7 +3,6 @@ const About = () => {
   return (
     <section className='section'>
       <h2>About</h2>
-      <Link to='/home' className='btn'>Home</Link>
     </section>
   );
 };

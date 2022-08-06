@@ -41,7 +41,6 @@ const Login = () => {
           login
         </button>
       </form>
-      <Link to='/home' className='btn'>Home</Link>
     </section>
   );
 };
